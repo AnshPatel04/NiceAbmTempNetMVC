@@ -1,5 +1,4 @@
 ## HTML template To ASP.Net Core MVC
-<br /><br /><br />
 The repository includes an HTML template inside a ZIP. <strong>NiceAdminPanel HTML.zip</strong>
 <br />
 <a href="https://github.com/niravkagathara/NiceAdmin_HTML" target="_blank">View Template</a>
